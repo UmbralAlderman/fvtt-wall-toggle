@@ -1,0 +1,21 @@
+{
+    "name": "wall-toggle",
+    "title": "Wall Toggle",
+    "description": "Adds a toggle button to the walls tool to control display in other modes, as notes.",
+    "version": "1.0",
+    "minimumCoreVersion": "0.7.8",
+    "compatibleCoreVersion": "0.7.8",
+    "authors": [{
+			  "name": "Matthew Boyce (Umbral Alderman)"
+		  }
+	  ],
+    "esmodules": [
+        "src/wall-toggle.js"
+    ],
+    "styles": [
+      "style.css"
+    ],
+    "url": "https://github.com/UmbralAlderman/fvtt-wall-toggle",
+    "manifest": "https://raw.githubusercontent.com/UmbralAlderman/fvtt-wall-toggle/main/module.json",
+    "download": "https://github.com/UmbralAlderman/fvtt-wall-toggle/releases/download/v1.0/wall-toggle-1.0.zip"
+}
