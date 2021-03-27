@@ -1,7 +1,7 @@
 {
     "name": "wall-toggle",
     "title": "Wall Toggle",
-    "description": "Adds a toggle button to the walls tool to control display in other modes, as notes.",
+    "description": "Allows the display of walls to be toggled on when other tools are active (similar to note pin).",
     "version": "1.0",
     "minimumCoreVersion": "0.7.8",
     "compatibleCoreVersion": "0.7.8",
