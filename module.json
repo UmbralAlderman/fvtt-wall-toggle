@@ -4,7 +4,7 @@
     "description": "Allows the display of walls to be toggled on when other tools are active (similar to note pin).",
     "version": "1.0",
     "minimumCoreVersion": "0.7.8",
-    "compatibleCoreVersion": "0.7.8",
+    "compatibleCoreVersion": "0.7.9",
     "authors": [{
 			  "name": "Matthew Boyce (Umbral Alderman)"
 		  }
