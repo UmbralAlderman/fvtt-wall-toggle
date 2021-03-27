@@ -2,7 +2,7 @@
     "name": "wall-toggle",
     "title": "Wall Toggle",
     "description": "Allows the display of walls to be toggled on when other tools are active (similar to note pin).",
-    "version": "1.0.1",
+    "version": "1.0",
     "minimumCoreVersion": "0.7.8",
     "compatibleCoreVersion": "0.7.9",
     "author": "Matthew Boyce (Umbral.Alderman@ostone.net)",
@@ -10,9 +10,9 @@
         "src/wall-toggle.js"
     ],
     "styles": [
-      "style.css"
+        "style.css"
     ],
     "url": "https://github.com/UmbralAlderman/fvtt-wall-toggle",
     "manifest": "https://raw.githubusercontent.com/UmbralAlderman/fvtt-wall-toggle/main/module.json",
-    "download": "https://github.com/UmbralAlderman/fvtt-wall-toggle/releases/download/v1.0.1/wall-toggle-1.0.1.zip"
+    "download": "https://github.com/UmbralAlderman/fvtt-wall-toggle/archive/refs/tags/v1.0.zip"
 }
